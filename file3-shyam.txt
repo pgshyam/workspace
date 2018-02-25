@@ -4,3 +4,4 @@ new line 1 after reset
 
 new line 2 after merging with master
 
+insert additional change
