@@ -1,0 +1,3 @@
+file2.txt
+
+This is created to work with git
