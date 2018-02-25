@@ -1,3 +1,5 @@
 initial file created on master branch
 
 add one more line to test squash
+trying squash second time
+
