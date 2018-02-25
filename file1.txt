@@ -1,3 +1,6 @@
 initial file created on master branch
 
 added line1 from shyam-1 branch
+add one more line to test squash
+trying squash second time
+
