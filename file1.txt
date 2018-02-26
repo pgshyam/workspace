@@ -6,4 +6,4 @@ trying squash second time
 12345 - hello 123
 hotfix abcde
 shyam-5 change
-
+file1 updated in master
