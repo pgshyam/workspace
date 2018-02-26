@@ -7,3 +7,4 @@ trying squash second time
 hotfix abcde
 shyam-5 change
 file1 updated in master
+hotfix added again
