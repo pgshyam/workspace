@@ -4,8 +4,5 @@ new line 1 after reset
 
 new line 2 after merging with master
 
-<<<<<<< HEAD
 insert additional change
-=======
 testing squash
->>>>>>> shyam-1
