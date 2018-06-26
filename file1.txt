@@ -10,3 +10,4 @@ file1 updated in master
 hotfix added again
 updating now from vs code
 one more update
+updated on 26-JUN-2018 directly on GitHub
