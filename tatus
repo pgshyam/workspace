@@ -1,0 +1,42 @@
+[33mcommit cbc09d97d5268be62e74d2cf2e8a317facdcb3e8[m
+Author: SHYAM G. PUSAPATY <pusapaty@us.ibm.com>
+Date:   Fri Mar 2 13:19:17 2018 -0500
+
+    testing
+
+[1mdiff --git a/file1.txt b/file1.txt[m
+[1mindex 827a617..d489edc 100644[m
+[1m--- a/file1.txt[m
+[1m+++ b/file1.txt[m
+[36m@@ -8,4 +8,5 @@[m [mhotfix abcde[m
+ shyam-5 change[m
+ file1 updated in master[m
+ hotfix added again[m
+[31m-updating now from vs code[m
+\ No newline at end of file[m
+[32m+[m[32mupdating now from vs code[m
+[32m+[m[32mone more update[m
+\ No newline at end of file[m
+[1mdiff --git a/file2.txt b/file2.txt[m
+[1mindex fc5278f..b7c4e3b 100644[m
+[1m--- a/file2.txt[m
+[1m+++ b/file2.txt[m
+[36m@@ -7,3 +7,4 @@[m [mupdated with a new line from shyam-2[m
+ hello690[m
+ updated thru hotfix[m
+ updated in shyam-5 branch[m
+[32m+[m[32mupdated again[m
+\ No newline at end of file[m
+[1mdiff --git a/file3-shyam.txt b/file3-shyam.txt[m
+[1mindex 3732124..929e82e 100644[m
+[1m--- a/file3-shyam.txt[m
+[1m+++ b/file3-shyam.txt[m
+[36m@@ -4,8 +4,5 @@[m [mnew line 1 after reset[m
+ [m
+ new line 2 after merging with master[m
+ [m
+[31m-<<<<<<< HEAD[m
+ insert additional change[m
+[31m-=======[m
+ testing squash[m
+[31m->>>>>>> shyam-1[m
